@@ -18,6 +18,7 @@ Iniciei recentemente, meus estudos em Data Science, usarei este espaço para com
 ## Projetos:
 
 * **Data Science: Usando base de dados do Airbnb para analisar imóveis em Tokyo:** http://bit.ly/3qM1tut
+* **Manipulação básica de Arquivos usando a Biblioteca Pandas:** http://bit.ly/pandaslibrary
 
 
 ---
