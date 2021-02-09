@@ -20,6 +20,7 @@ Atuei como Desenvolvedor Mobile em projetos iOS(Swift) e Android Nativo(Java), c
 
 * **Data Science: Usando base de dados do Airbnb para analisar imóveis em Tokyo:** http://bit.ly/3qM1tut
 * **Manipulação básica de Arquivos usando a Biblioteca Pandas:** http://bit.ly/pandaslibrary
+* **Criando DAtaFrame através de Dicionários e Listas:** http://bit.ly/2Z0PSvM
 
 
 ---
