@@ -22,6 +22,7 @@ Atuei como Desenvolvedor Mobile em projetos iOS(Swift) e Android Nativo(Java), c
 * **Manipulação básica de Arquivos usando a Biblioteca Pandas:** http://bit.ly/pandaslibrary
 * **Criando DataFrame através de Dicionários e Listas:** http://bit.ly/2Z0PSvM
 * **Análise exploratória:** https://bit.ly/2O7fKUC
+* **Tratando Dados Ausentes no DataFrame:** http://bit.ly/2OcRekQ
 
 
 ---
