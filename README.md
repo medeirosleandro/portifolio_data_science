@@ -23,6 +23,7 @@ Atuei como Desenvolvedor Mobile em projetos iOS(Swift) e Android Nativo(Java), c
 * **Criando DataFrame através de Dicionários e Listas:** http://bit.ly/2Z0PSvM
 * **Análise exploratória:** https://bit.ly/2O7fKUC
 * **Tratando Dados Ausentes no DataFrame:** http://bit.ly/2OcRekQ
+* **Pandas Profiling:** http://bit.ly/3dZjp1O
 
 
 ---
