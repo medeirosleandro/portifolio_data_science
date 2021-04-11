@@ -25,6 +25,7 @@ Atuei como Desenvolvedor Mobile em projetos iOS(Swift) e Android Nativo(Java), c
 * **Tratando Dados Ausentes no DataFrame:** http://bit.ly/2OcRekQ
 * **Pandas Profiling:** http://bit.ly/3dZjp1O
 * **Análise Violência no Rio de Janeiro:** http://bit.ly/3rr6jOI
+* **Nuvem de palavras usando a Biblioteca WordCloud:** https://bit.ly/3mBsoIA
 
 
 ---
